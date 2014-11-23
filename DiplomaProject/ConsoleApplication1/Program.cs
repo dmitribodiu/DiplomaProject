@@ -28,5 +28,8 @@ namespace ConsoleApplication1
         private void ReallyLocalBranchs()
         {
         }
+        private void ReallyLocalBranchs2()
+        {
+        }
     }
 }
