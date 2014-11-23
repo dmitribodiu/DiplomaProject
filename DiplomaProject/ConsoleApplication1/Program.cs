@@ -13,6 +13,9 @@ namespace ConsoleApplication1
             var b = 5;
             var c = "apelsin";
             var last = "master";
+            var last1 = "master";
+            var last2 = "master";
+            var last3 = "master";
         }
 
         private void Push()
