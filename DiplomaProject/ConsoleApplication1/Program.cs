@@ -18,5 +18,8 @@ namespace ConsoleApplication1
         private void Push()
         {
         }
+        private void LocalBranchs()
+        {
+        }
     }
 }
