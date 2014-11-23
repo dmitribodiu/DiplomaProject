@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             var b = 5;
             var c = "apelsin";
+            var last = "master";
         }
     }
 }
