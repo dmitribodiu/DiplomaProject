@@ -14,5 +14,9 @@ namespace ConsoleApplication1
             var c = "apelsin";
             var last = "master";
         }
+
+        private void Push()
+        {
+        }
     }
 }
