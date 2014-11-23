@@ -13,5 +13,9 @@ namespace ConsoleApplication1
             var b = 5;
             var c = "apelsin";
         }
+
+        private void Push()
+        {
+        }
     }
 }
