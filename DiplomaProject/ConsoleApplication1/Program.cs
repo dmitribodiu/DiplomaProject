@@ -17,6 +17,7 @@ namespace ConsoleApplication1
 
         private void Push()
         {
+            var push = 5;
         }
         private void LocalBranchs()
         {
